@@ -1,0 +1,382 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/UKXxZshchS1uH3M8pZwG0/_buildManifest.js",
+    "static/UKXxZshchS1uH3M8pZwG0/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/802-f55c355b2a6d556d.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/pages/index-dbc5b4ad4460b9f2.js"
+    ],
+    "/404": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/pages/404-90c8ec1cd87aa8df.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/css/08d03d848230490b.css",
+      "static/chunks/pages/_app-547f66a4a74a589e.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/pages/_error-a4ba2246ff8fb532.js"
+    ],
+    "/about-us": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/pages/about-us-4c8f181b4ce14796.js"
+    ],
+    "/affordable-web-design-toronto": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/4b4eb83f-1a5cbf3da383beb0.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/443-b802f49b15410b2a.js",
+      "static/chunks/739-1b5afab261d76502.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/81-e581808f8a200283.js",
+      "static/chunks/pages/affordable-web-design-toronto-b921a56f4f67dd8e.js"
+    ],
+    "/affordable-web-design-vancouver": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/4b4eb83f-1a5cbf3da383beb0.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/443-b802f49b15410b2a.js",
+      "static/chunks/739-1b5afab261d76502.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/81-e581808f8a200283.js",
+      "static/chunks/pages/affordable-web-design-vancouver-e367f856d75a124f.js"
+    ],
+    "/calgary-web-design": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/4b4eb83f-1a5cbf3da383beb0.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/443-b802f49b15410b2a.js",
+      "static/chunks/739-1b5afab261d76502.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/81-e581808f8a200283.js",
+      "static/chunks/pages/calgary-web-design-c58b69745d0cf324.js"
+    ],
+    "/contact": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/4b4eb83f-1a5cbf3da383beb0.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/443-b802f49b15410b2a.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/pages/contact-c8c8f8f83f75883d.js"
+    ],
+    "/digital-marketing": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/pages/digital-marketing-7b08de8166f73844.js"
+    ],
+    "/digital-marketing-agencies-vancouver": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/4b4eb83f-1a5cbf3da383beb0.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/443-b802f49b15410b2a.js",
+      "static/chunks/739-1b5afab261d76502.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/81-e581808f8a200283.js",
+      "static/chunks/pages/digital-marketing-agencies-vancouver-b2d7fe83543a87d8.js"
+    ],
+    "/digital-marketing-agency-kitchener": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/4b4eb83f-1a5cbf3da383beb0.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/443-b802f49b15410b2a.js",
+      "static/chunks/739-1b5afab261d76502.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/81-e581808f8a200283.js",
+      "static/chunks/pages/digital-marketing-agency-kitchener-b73d7719ee9c46f1.js"
+    ],
+    "/digital-marketing-agency-mississauga": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/4b4eb83f-1a5cbf3da383beb0.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/443-b802f49b15410b2a.js",
+      "static/chunks/739-1b5afab261d76502.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/81-e581808f8a200283.js",
+      "static/chunks/pages/digital-marketing-agency-mississauga-4c984361f9a8e49a.js"
+    ],
+    "/faq": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/pages/faq-24de612d40151faf.js"
+    ],
+    "/graphic-design": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/pages/graphic-design-1a22050fb402efcd.js"
+    ],
+    "/local-digital-marketing-agency": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/4b4eb83f-1a5cbf3da383beb0.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/443-b802f49b15410b2a.js",
+      "static/chunks/739-1b5afab261d76502.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/81-e581808f8a200283.js",
+      "static/chunks/pages/local-digital-marketing-agency-03c6d7c8e61944f8.js"
+    ],
+    "/pricing": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/pages/pricing-9eaecae6f53ace3b.js"
+    ],
+    "/privacy-policy": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/pages/privacy-policy-b7aa2c65e8e7ea23.js"
+    ],
+    "/recurring-web-development": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/4b4eb83f-1a5cbf3da383beb0.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/443-b802f49b15410b2a.js",
+      "static/chunks/739-1b5afab261d76502.js",
+      "static/chunks/76-c314f21a8ace6247.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/81-e581808f8a200283.js",
+      "static/chunks/pages/recurring-web-development-e10175ce6c6dcf39.js"
+    ],
+    "/terms-of-service": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/pages/terms-of-service-44bd5da5326d217a.js"
+    ],
+    "/web-design": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/pages/web-design-337dbe17f549aa08.js"
+    ],
+    "/web-design-company-markham": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/4b4eb83f-1a5cbf3da383beb0.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/443-b802f49b15410b2a.js",
+      "static/chunks/739-1b5afab261d76502.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/81-e581808f8a200283.js",
+      "static/chunks/pages/web-design-company-markham-733c349e48d45be2.js"
+    ],
+    "/web-design-london-ontario": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/4b4eb83f-1a5cbf3da383beb0.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/443-b802f49b15410b2a.js",
+      "static/chunks/739-1b5afab261d76502.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/81-e581808f8a200283.js",
+      "static/chunks/pages/web-design-london-ontario-10270aef174ab4f4.js"
+    ],
+    "/web-design-mississauga": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/4b4eb83f-1a5cbf3da383beb0.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/443-b802f49b15410b2a.js",
+      "static/chunks/739-1b5afab261d76502.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/81-e581808f8a200283.js",
+      "static/chunks/pages/web-design-mississauga-fb9bb1f29c29831e.js"
+    ],
+    "/web-design-niagara": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/4b4eb83f-1a5cbf3da383beb0.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/443-b802f49b15410b2a.js",
+      "static/chunks/739-1b5afab261d76502.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/81-e581808f8a200283.js",
+      "static/chunks/pages/web-design-niagara-701a989c75f82e87.js"
+    ],
+    "/web-design-ottawa": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/4b4eb83f-1a5cbf3da383beb0.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/443-b802f49b15410b2a.js",
+      "static/chunks/739-1b5afab261d76502.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/81-e581808f8a200283.js",
+      "static/chunks/pages/web-design-ottawa-91f73a7f626aa650.js"
+    ],
+    "/web-design-packages": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/4b4eb83f-1a5cbf3da383beb0.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/443-b802f49b15410b2a.js",
+      "static/chunks/739-1b5afab261d76502.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/81-e581808f8a200283.js",
+      "static/chunks/pages/web-design-packages-a697f661211d0670.js"
+    ],
+    "/web-design-southport": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/4b4eb83f-1a5cbf3da383beb0.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/443-b802f49b15410b2a.js",
+      "static/chunks/739-1b5afab261d76502.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/81-e581808f8a200283.js",
+      "static/chunks/pages/web-design-southport-3c2ef5c24a06633a.js"
+    ],
+    "/web-designer-near-me": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/4b4eb83f-1a5cbf3da383beb0.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/443-b802f49b15410b2a.js",
+      "static/chunks/739-1b5afab261d76502.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/81-e581808f8a200283.js",
+      "static/chunks/pages/web-designer-near-me-9c3e815387b62ca6.js"
+    ],
+    "/web-development": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/pages/web-development-62b1f48a664808f8.js"
+    ],
+    "/web-development-agency": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/4b4eb83f-1a5cbf3da383beb0.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/443-b802f49b15410b2a.js",
+      "static/chunks/739-1b5afab261d76502.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/81-e581808f8a200283.js",
+      "static/chunks/pages/web-development-agency-19026b6763a284f1.js"
+    ],
+    "/web-development-company": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/4b4eb83f-1a5cbf3da383beb0.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/443-b802f49b15410b2a.js",
+      "static/chunks/739-1b5afab261d76502.js",
+      "static/chunks/76-c314f21a8ace6247.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/81-e581808f8a200283.js",
+      "static/chunks/pages/web-development-company-25e0bf8f8db4bd0a.js"
+    ],
+    "/web-development-company-calgary": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/4b4eb83f-1a5cbf3da383beb0.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/443-b802f49b15410b2a.js",
+      "static/chunks/739-1b5afab261d76502.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/81-e581808f8a200283.js",
+      "static/chunks/pages/web-development-company-calgary-2c587090dbf6b5ce.js"
+    ],
+    "/web-development-company-canada": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/4b4eb83f-1a5cbf3da383beb0.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/443-b802f49b15410b2a.js",
+      "static/chunks/739-1b5afab261d76502.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/81-e581808f8a200283.js",
+      "static/chunks/pages/web-development-company-canada-3ef9cbea722b3e4f.js"
+    ],
+    "/web-development-company-ottawa": [
+      "static/chunks/webpack-6b1a4e0a62069358.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-af1a368b93c376c4.js",
+      "static/chunks/4b4eb83f-1a5cbf3da383beb0.js",
+      "static/chunks/816-7fbe5c7c65eae135.js",
+      "static/chunks/443-b802f49b15410b2a.js",
+      "static/chunks/739-1b5afab261d76502.js",
+      "static/chunks/76-c314f21a8ace6247.js",
+      "static/chunks/756-83eb1b0f50d57ea2.js",
+      "static/chunks/81-e581808f8a200283.js",
+      "static/chunks/pages/web-development-company-ottawa-0640a85160cfa22a.js"
+    ]
+  },
+  "ampFirstPages": []
+}
